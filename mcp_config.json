@@ -1,3 +1,8 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "parallel-search": {
+      "type": "streamablehttp",
+      "url": "https://search.parallel.ai/mcp"
+    }
+  }
 }
